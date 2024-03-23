@@ -4,7 +4,7 @@ This project is a clone of the classic user interface of Curve.fi, developed usi
 
 <div align="center">
   <video autoplay loop muted>
-    <source src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/blob/main/demo.vid" type="video/gif">
+    <source src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/blob/main/demovid.mp4" type="video/gif">
   </video>
 </div>
 
