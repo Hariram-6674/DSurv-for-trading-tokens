@@ -1,0 +1,6 @@
+service : {
+  Balance: (principal) -> (nat) query;
+  getSymbol: () -> (text) query;
+  putMon: () -> (text);
+  transfer: (principal, nat) -> (text);
+}
