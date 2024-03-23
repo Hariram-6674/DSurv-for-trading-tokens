@@ -3,9 +3,7 @@
 This project is a clone of the classic user interface of Curve.fi, developed using Motoko and DFINITY's Internet Computer platform. Curve.fi is a decentralized exchange liquidity pool on Ethereum designed for extremely efficient stablecoin trading. This project aims to replicate the user interface and some functionalities of Curve.fi while leveraging the features provided by Motoko and DFINITY.
 
 <div align="center">
-  <video autoplay loop muted>
-    <source src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/blob/main/demovid.mp4" type="video/gif">
-  </video>
+  <img src="https://github.com/Hariram-6674/DSurv-for-trading-tokens/raw/main/demo.gif" alt="DSurv">
 </div>
 
 ## Deployment Instructions
